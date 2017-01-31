@@ -1,0 +1,1 @@
+alert("Javascript importado de otro archivo");
